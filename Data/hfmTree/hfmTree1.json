@@ -1,0 +1,96 @@
+{
+    "hfmTreeArr": [{
+            "value": "",
+            "weight": 6,
+            "charCode": "",
+            "left": {
+                "value": "c",
+                "weight": 3,
+                "charCode": "0",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 1
+            },
+            "right": {
+                "value": "",
+                "weight": 3,
+                "charCode": "1",
+                "left": {
+                    "value": "a",
+                    "weight": 1,
+                    "charCode": "10",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 2
+                },
+                "right": {
+                    "value": "b",
+                    "weight": 2,
+                    "charCode": "11",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 2
+                },
+                "tag": 1,
+                "level": 1
+            },
+            "tag": 0,
+            "level": 0
+        },
+        {
+            "value": "",
+            "weight": 3,
+            "charCode": "1",
+            "left": {
+                "value": "a",
+                "weight": 1,
+                "charCode": "10",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 2
+            },
+            "right": {
+                "value": "b",
+                "weight": 2,
+                "charCode": "11",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 2
+            },
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "c",
+            "weight": 3,
+            "charCode": "0",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "b",
+            "weight": 2,
+            "charCode": "11",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "a",
+            "weight": 1,
+            "charCode": "10",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 2
+        }
+    ]
+}

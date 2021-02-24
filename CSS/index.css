@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper .select-action,
+.wrapper .hfm-coding,
+.wrapper .hfm-decoding,
+.wrapper .input-message,
+.wrapper .coding-decoding {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wrapper .select-action button {
+    margin: 0 10px;
+}
+
+.wrapper .select-action #open-json {
+    display: none;
+    margin: 5px auto;
+}
+
+.wrapper .select-action #json-submit {
+    display: none;
+    margin: 5px auto;
+}
+
+
+/* 填写信息模块 */
+
+.wrapper .input-message {
+    display: none;
+}
+
+.wrapper .input-message p {
+    padding: 5px 0;
+}
+
+.wrapper .input-message button {
+    margin: 0 10px;
+}
+
+.wrapper .input-message .input-table {
+    padding: 5px 0;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper .input-message .input-table .row {
+    flex: 1 1 auto;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+
+.wrapper .input-message .input-table .row div:nth-child(1) {
+    flex: 0 0 auto;
+    width: 50px;
+}
+
+.wrapper .input-message .input-table .row div {
+    flex: 1 1 auto;
+    line-height: 35px;
+    background-color: rgba(14, 69, 131, .1);
+    border: 1px solid black;
+}
+
+.wrapper .input-message .input-table .row div input {
+    width: 45px;
+}
+
+
+/* 画板样式 */
+
+.wrapper .canvas-wrapper {
+    /* width: 1200px; */
+    margin: 5px auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    display: none;
+}
+
+#canvas {
+    display: inline-block;
+}
+
+
+/* 选择 按钮 样式 */
+
+.wrapper .coding-decoding {
+    display: none;
+}
+
+.wrapper .coding-decoding button {
+    margin: 5px 10px;
+}
+
+
+/* 哈夫曼编码操作样式 */
+
+.wrapper .hfm-coding {
+    display: none;
+}
+
+.wrapper .hfm-coding button {
+    margin: 5px 10px;
+}
+
+.wrapper .hfm-coding div {
+    margin: 5px auto;
+}
+
+
+/* 哈夫曼译码操作样式 */
+
+.wrapper .hfm-decoding {
+    display: none;
+}
+
+.wrapper .hfm-decoding button {
+    margin: 5px 10px;
+}
+
+.wrapper .hfm-decoding div {
+    margin: 5px auto;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>哈夫曼树</title>
+    <link rel="stylesheet" href="CSS/index.css">
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <!-- 初始选择操作模块 -->
+        <div class="select-action">
+            <p>请选择您要进行的操作</p>
+            <button id="open-hfmTree">打开已有的哈夫曼编码树</button>
+            <button id="create-new-hfmTree">创建新的哈夫曼编码树</button>
+            <input id="open-json" type="file">
+            <button id="json-submit">上传</button>
+        </div>
+
+        <!-- 编码 译码 选择 模块 -->
+        <div class="coding-decoding">
+            <p>请选择您要进行的操作 编码(coding) or 译码(decoding)</p>
+            <button id="coding">coding</button>
+            <button id="decoding">decoding</button>
+        </div>
+
+        <!-- 填写信息模块 -->
+        <div class="input-message">
+            <div>
+                <p>
+                    <label for="node-num">请输入字符集大小:</label>
+                    <input type="text" id="node-num">
+                </p>
+                <button id="create-table">开始填写</button>
+                <button id="create-hfmTree" style="display: none;">生成哈夫曼规则树</button>
+                <button id="save-hfmTree" style="display: none;">保存该编码方式</button>
+            </div>
+
+            <div class="input-table">
+            </div>
+
+        </div>
+
+        <!-- 哈夫曼编码操作 -->
+        <div class="hfm-coding">
+            <p>上传文件(文件位于Data/ToBeTran文件夹下)，根据上述的 哈夫曼编码树，进行哈夫曼编码操作</p>
+            <input type="file" id="coding-json">
+            <button id="coding-submit">上传文件，进行编码</button>
+            <div class="answer"></div>
+            <button id="save-coding" style="display: none;">保存编码结果</button>
+        </div>
+
+        <!-- 哈夫曼译码操作 -->
+        <div class="hfm-decoding">
+            <p>上传文件(文件位于Data/CodeFile文件夹下)，根据上述的 哈夫曼编码树，进行哈夫曼译码操作</p>
+            <input type="file" id="decoding-json">
+            <button id="decoding-submit">上传文件，进行译码</button>
+            <div class="answer"></div>
+            <button id="save-decoding" style="display: none;">保存译码结果</button>
+        </div>
+
+        <!-- 打印树形结构模块 -->
+        <div class="canvas-wrapper">
+            <canvas id="canvas"></canvas>
+        </div>
+
+
+    </div>
+    <script src="JS/hfmTree.js"></script>
+    <script src="JS/saveJSON.js"></script>
+    <script src="JS/getFileName.js"></script>
+    <script src="JS/draw.js"></script>
+    <script src="JS/ajax.js"></script>
+    <script src="JS/index.js"></script>
+</body>
+
+</html>

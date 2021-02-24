@@ -1,0 +1,2545 @@
+{
+    "hfmTreeArr": [
+        {
+            "value": "",
+            "weight": 1000,
+            "charCode": "",
+            "left": {
+                "value": "",
+                "weight": 408,
+                "charCode": "0",
+                "left": {
+                    "value": "",
+                    "weight": 191,
+                    "charCode": "00",
+                    "left": {
+                        "value": "",
+                        "weight": 92,
+                        "charCode": "000",
+                        "left": {
+                            "value": "",
+                            "weight": 45,
+                            "charCode": "0000",
+                            "left": {
+                                "value": "C",
+                                "weight": 22,
+                                "charCode": "00000",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "right": {
+                                "value": "U",
+                                "weight": 23,
+                                "charCode": "00001",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "H",
+                            "weight": 47,
+                            "charCode": "0001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 99,
+                        "charCode": "001",
+                        "left": {
+                            "value": "R",
+                            "weight": 48,
+                            "charCode": "0010",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "S",
+                            "weight": 51,
+                            "charCode": "0011",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "tag": 1,
+                    "level": 2
+                },
+                "right": {
+                    "value": "",
+                    "weight": 217,
+                    "charCode": "01",
+                    "left": {
+                        "value": "E",
+                        "weight": 103,
+                        "charCode": "010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 114,
+                        "charCode": "011",
+                        "left": {
+                            "value": "I",
+                            "weight": 57,
+                            "charCode": "0110",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "N",
+                            "weight": 57,
+                            "charCode": "0111",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "tag": 1,
+                    "level": 2
+                },
+                "tag": 1,
+                "level": 1
+            },
+            "right": {
+                "value": "",
+                "weight": 592,
+                "charCode": "1",
+                "left": {
+                    "value": "",
+                    "weight": 250,
+                    "charCode": "10",
+                    "left": {
+                        "value": "",
+                        "weight": 122,
+                        "charCode": "100",
+                        "left": {
+                            "value": "",
+                            "weight": 59,
+                            "charCode": "1000",
+                            "left": {
+                                "value": "",
+                                "weight": 28,
+                                "charCode": "10000",
+                                "left": {
+                                    "value": "B",
+                                    "weight": 13,
+                                    "charCode": "100000",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "right": {
+                                    "value": "G",
+                                    "weight": 15,
+                                    "charCode": "100001",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "right": {
+                                "value": "",
+                                "weight": 31,
+                                "charCode": "10001",
+                                "left": {
+                                    "value": "P",
+                                    "weight": 15,
+                                    "charCode": "100010",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "right": {
+                                    "value": "Y",
+                                    "weight": 16,
+                                    "charCode": "100011",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "O",
+                            "weight": 63,
+                            "charCode": "1001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 128,
+                        "charCode": "101",
+                        "left": {
+                            "value": "A",
+                            "weight": 64,
+                            "charCode": "1010",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "",
+                            "weight": 64,
+                            "charCode": "1011",
+                            "left": {
+                                "value": "D",
+                                "weight": 32,
+                                "charCode": "10110",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "right": {
+                                "value": "L",
+                                "weight": 32,
+                                "charCode": "10111",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "tag": 1,
+                    "level": 2
+                },
+                "right": {
+                    "value": "",
+                    "weight": 342,
+                    "charCode": "11",
+                    "left": {
+                        "value": "",
+                        "weight": 156,
+                        "charCode": "110",
+                        "left": {
+                            "value": "",
+                            "weight": 76,
+                            "charCode": "1100",
+                            "left": {
+                                "value": "",
+                                "weight": 35,
+                                "charCode": "11000",
+                                "left": {
+                                    "value": "",
+                                    "weight": 17,
+                                    "charCode": "110000",
+                                    "left": {
+                                        "value": "V",
+                                        "weight": 8,
+                                        "charCode": "1100000",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 7
+                                    },
+                                    "right": {
+                                        "value": "",
+                                        "weight": 9,
+                                        "charCode": "1100001",
+                                        "left": {
+                                            "value": "",
+                                            "weight": 4,
+                                            "charCode": "11000010",
+                                            "left": {
+                                                "value": "",
+                                                "weight": 2,
+                                                "charCode": "110000100",
+                                                "left": {
+                                                    "value": "J",
+                                                    "weight": 1,
+                                                    "charCode": "1100001000",
+                                                    "left": null,
+                                                    "right": null,
+                                                    "tag": 1,
+                                                    "level": 10
+                                                },
+                                                "right": {
+                                                    "value": "Q",
+                                                    "weight": 1,
+                                                    "charCode": "1100001001",
+                                                    "left": null,
+                                                    "right": null,
+                                                    "tag": 1,
+                                                    "level": 10
+                                                },
+                                                "tag": 1,
+                                                "level": 9
+                                            },
+                                            "right": {
+                                                "value": "",
+                                                "weight": 2,
+                                                "charCode": "110000101",
+                                                "left": {
+                                                    "value": "X",
+                                                    "weight": 1,
+                                                    "charCode": "1100001010",
+                                                    "left": null,
+                                                    "right": null,
+                                                    "tag": 1,
+                                                    "level": 10
+                                                },
+                                                "right": {
+                                                    "value": "Z",
+                                                    "weight": 1,
+                                                    "charCode": "1100001011",
+                                                    "left": null,
+                                                    "right": null,
+                                                    "tag": 1,
+                                                    "level": 10
+                                                },
+                                                "tag": 1,
+                                                "level": 9
+                                            },
+                                            "tag": 1,
+                                            "level": 8
+                                        },
+                                        "right": {
+                                            "value": "K",
+                                            "weight": 5,
+                                            "charCode": "11000011",
+                                            "left": null,
+                                            "right": null,
+                                            "tag": 1,
+                                            "level": 8
+                                        },
+                                        "tag": 1,
+                                        "level": 7
+                                    },
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "right": {
+                                    "value": "W",
+                                    "weight": 18,
+                                    "charCode": "110001",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "right": {
+                                "value": "",
+                                "weight": 41,
+                                "charCode": "11001",
+                                "left": {
+                                    "value": "M",
+                                    "weight": 20,
+                                    "charCode": "110010",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "right": {
+                                    "value": "F",
+                                    "weight": 21,
+                                    "charCode": "110011",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 6
+                                },
+                                "tag": 1,
+                                "level": 5
+                            },
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "right": {
+                            "value": "T",
+                            "weight": 80,
+                            "charCode": "1101",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 4
+                        },
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "right": {
+                        "value": " ",
+                        "weight": 186,
+                        "charCode": "111",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "tag": 1,
+                    "level": 2
+                },
+                "tag": 1,
+                "level": 1
+            },
+            "tag": 0,
+            "level": 0
+        },
+        {
+            "value": "",
+            "weight": 592,
+            "charCode": "1",
+            "left": {
+                "value": "",
+                "weight": 250,
+                "charCode": "10",
+                "left": {
+                    "value": "",
+                    "weight": 122,
+                    "charCode": "100",
+                    "left": {
+                        "value": "",
+                        "weight": 59,
+                        "charCode": "1000",
+                        "left": {
+                            "value": "",
+                            "weight": 28,
+                            "charCode": "10000",
+                            "left": {
+                                "value": "B",
+                                "weight": 13,
+                                "charCode": "100000",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "right": {
+                                "value": "G",
+                                "weight": 15,
+                                "charCode": "100001",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "right": {
+                            "value": "",
+                            "weight": 31,
+                            "charCode": "10001",
+                            "left": {
+                                "value": "P",
+                                "weight": 15,
+                                "charCode": "100010",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "right": {
+                                "value": "Y",
+                                "weight": 16,
+                                "charCode": "100011",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "O",
+                        "weight": 63,
+                        "charCode": "1001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "right": {
+                    "value": "",
+                    "weight": 128,
+                    "charCode": "101",
+                    "left": {
+                        "value": "A",
+                        "weight": 64,
+                        "charCode": "1010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 64,
+                        "charCode": "1011",
+                        "left": {
+                            "value": "D",
+                            "weight": 32,
+                            "charCode": "10110",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "right": {
+                            "value": "L",
+                            "weight": 32,
+                            "charCode": "10111",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "tag": 1,
+                "level": 2
+            },
+            "right": {
+                "value": "",
+                "weight": 342,
+                "charCode": "11",
+                "left": {
+                    "value": "",
+                    "weight": 156,
+                    "charCode": "110",
+                    "left": {
+                        "value": "",
+                        "weight": 76,
+                        "charCode": "1100",
+                        "left": {
+                            "value": "",
+                            "weight": 35,
+                            "charCode": "11000",
+                            "left": {
+                                "value": "",
+                                "weight": 17,
+                                "charCode": "110000",
+                                "left": {
+                                    "value": "V",
+                                    "weight": 8,
+                                    "charCode": "1100000",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 7
+                                },
+                                "right": {
+                                    "value": "",
+                                    "weight": 9,
+                                    "charCode": "1100001",
+                                    "left": {
+                                        "value": "",
+                                        "weight": 4,
+                                        "charCode": "11000010",
+                                        "left": {
+                                            "value": "",
+                                            "weight": 2,
+                                            "charCode": "110000100",
+                                            "left": {
+                                                "value": "J",
+                                                "weight": 1,
+                                                "charCode": "1100001000",
+                                                "left": null,
+                                                "right": null,
+                                                "tag": 1,
+                                                "level": 10
+                                            },
+                                            "right": {
+                                                "value": "Q",
+                                                "weight": 1,
+                                                "charCode": "1100001001",
+                                                "left": null,
+                                                "right": null,
+                                                "tag": 1,
+                                                "level": 10
+                                            },
+                                            "tag": 1,
+                                            "level": 9
+                                        },
+                                        "right": {
+                                            "value": "",
+                                            "weight": 2,
+                                            "charCode": "110000101",
+                                            "left": {
+                                                "value": "X",
+                                                "weight": 1,
+                                                "charCode": "1100001010",
+                                                "left": null,
+                                                "right": null,
+                                                "tag": 1,
+                                                "level": 10
+                                            },
+                                            "right": {
+                                                "value": "Z",
+                                                "weight": 1,
+                                                "charCode": "1100001011",
+                                                "left": null,
+                                                "right": null,
+                                                "tag": 1,
+                                                "level": 10
+                                            },
+                                            "tag": 1,
+                                            "level": 9
+                                        },
+                                        "tag": 1,
+                                        "level": 8
+                                    },
+                                    "right": {
+                                        "value": "K",
+                                        "weight": 5,
+                                        "charCode": "11000011",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 8
+                                    },
+                                    "tag": 1,
+                                    "level": 7
+                                },
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "right": {
+                                "value": "W",
+                                "weight": 18,
+                                "charCode": "110001",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "right": {
+                            "value": "",
+                            "weight": 41,
+                            "charCode": "11001",
+                            "left": {
+                                "value": "M",
+                                "weight": 20,
+                                "charCode": "110010",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "right": {
+                                "value": "F",
+                                "weight": 21,
+                                "charCode": "110011",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 6
+                            },
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "T",
+                        "weight": 80,
+                        "charCode": "1101",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "right": {
+                    "value": " ",
+                    "weight": 186,
+                    "charCode": "111",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 3
+                },
+                "tag": 1,
+                "level": 2
+            },
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "",
+            "weight": 408,
+            "charCode": "0",
+            "left": {
+                "value": "",
+                "weight": 191,
+                "charCode": "00",
+                "left": {
+                    "value": "",
+                    "weight": 92,
+                    "charCode": "000",
+                    "left": {
+                        "value": "",
+                        "weight": 45,
+                        "charCode": "0000",
+                        "left": {
+                            "value": "C",
+                            "weight": 22,
+                            "charCode": "00000",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "right": {
+                            "value": "U",
+                            "weight": 23,
+                            "charCode": "00001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 5
+                        },
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "H",
+                        "weight": 47,
+                        "charCode": "0001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "right": {
+                    "value": "",
+                    "weight": 99,
+                    "charCode": "001",
+                    "left": {
+                        "value": "R",
+                        "weight": 48,
+                        "charCode": "0010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "S",
+                        "weight": 51,
+                        "charCode": "0011",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "tag": 1,
+                "level": 2
+            },
+            "right": {
+                "value": "",
+                "weight": 217,
+                "charCode": "01",
+                "left": {
+                    "value": "E",
+                    "weight": 103,
+                    "charCode": "010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 3
+                },
+                "right": {
+                    "value": "",
+                    "weight": 114,
+                    "charCode": "011",
+                    "left": {
+                        "value": "I",
+                        "weight": 57,
+                        "charCode": "0110",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "right": {
+                        "value": "N",
+                        "weight": 57,
+                        "charCode": "0111",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 4
+                    },
+                    "tag": 1,
+                    "level": 3
+                },
+                "tag": 1,
+                "level": 2
+            },
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "",
+            "weight": 342,
+            "charCode": "11",
+            "left": {
+                "value": "",
+                "weight": 156,
+                "charCode": "110",
+                "left": {
+                    "value": "",
+                    "weight": 76,
+                    "charCode": "1100",
+                    "left": {
+                        "value": "",
+                        "weight": 35,
+                        "charCode": "11000",
+                        "left": {
+                            "value": "",
+                            "weight": 17,
+                            "charCode": "110000",
+                            "left": {
+                                "value": "V",
+                                "weight": 8,
+                                "charCode": "1100000",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 7
+                            },
+                            "right": {
+                                "value": "",
+                                "weight": 9,
+                                "charCode": "1100001",
+                                "left": {
+                                    "value": "",
+                                    "weight": 4,
+                                    "charCode": "11000010",
+                                    "left": {
+                                        "value": "",
+                                        "weight": 2,
+                                        "charCode": "110000100",
+                                        "left": {
+                                            "value": "J",
+                                            "weight": 1,
+                                            "charCode": "1100001000",
+                                            "left": null,
+                                            "right": null,
+                                            "tag": 1,
+                                            "level": 10
+                                        },
+                                        "right": {
+                                            "value": "Q",
+                                            "weight": 1,
+                                            "charCode": "1100001001",
+                                            "left": null,
+                                            "right": null,
+                                            "tag": 1,
+                                            "level": 10
+                                        },
+                                        "tag": 1,
+                                        "level": 9
+                                    },
+                                    "right": {
+                                        "value": "",
+                                        "weight": 2,
+                                        "charCode": "110000101",
+                                        "left": {
+                                            "value": "X",
+                                            "weight": 1,
+                                            "charCode": "1100001010",
+                                            "left": null,
+                                            "right": null,
+                                            "tag": 1,
+                                            "level": 10
+                                        },
+                                        "right": {
+                                            "value": "Z",
+                                            "weight": 1,
+                                            "charCode": "1100001011",
+                                            "left": null,
+                                            "right": null,
+                                            "tag": 1,
+                                            "level": 10
+                                        },
+                                        "tag": 1,
+                                        "level": 9
+                                    },
+                                    "tag": 1,
+                                    "level": 8
+                                },
+                                "right": {
+                                    "value": "K",
+                                    "weight": 5,
+                                    "charCode": "11000011",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 8
+                                },
+                                "tag": 1,
+                                "level": 7
+                            },
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "right": {
+                            "value": "W",
+                            "weight": 18,
+                            "charCode": "110001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 41,
+                        "charCode": "11001",
+                        "left": {
+                            "value": "M",
+                            "weight": 20,
+                            "charCode": "110010",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "right": {
+                            "value": "F",
+                            "weight": 21,
+                            "charCode": "110011",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "T",
+                    "weight": 80,
+                    "charCode": "1101",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "right": {
+                "value": " ",
+                "weight": 186,
+                "charCode": "111",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 3
+            },
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "",
+            "weight": 250,
+            "charCode": "10",
+            "left": {
+                "value": "",
+                "weight": 122,
+                "charCode": "100",
+                "left": {
+                    "value": "",
+                    "weight": 59,
+                    "charCode": "1000",
+                    "left": {
+                        "value": "",
+                        "weight": 28,
+                        "charCode": "10000",
+                        "left": {
+                            "value": "B",
+                            "weight": 13,
+                            "charCode": "100000",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "right": {
+                            "value": "G",
+                            "weight": 15,
+                            "charCode": "100001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 31,
+                        "charCode": "10001",
+                        "left": {
+                            "value": "P",
+                            "weight": 15,
+                            "charCode": "100010",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "right": {
+                            "value": "Y",
+                            "weight": 16,
+                            "charCode": "100011",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 6
+                        },
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "O",
+                    "weight": 63,
+                    "charCode": "1001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "right": {
+                "value": "",
+                "weight": 128,
+                "charCode": "101",
+                "left": {
+                    "value": "A",
+                    "weight": 64,
+                    "charCode": "1010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "",
+                    "weight": 64,
+                    "charCode": "1011",
+                    "left": {
+                        "value": "D",
+                        "weight": 32,
+                        "charCode": "10110",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "right": {
+                        "value": "L",
+                        "weight": 32,
+                        "charCode": "10111",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "",
+            "weight": 217,
+            "charCode": "01",
+            "left": {
+                "value": "E",
+                "weight": 103,
+                "charCode": "010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 3
+            },
+            "right": {
+                "value": "",
+                "weight": 114,
+                "charCode": "011",
+                "left": {
+                    "value": "I",
+                    "weight": 57,
+                    "charCode": "0110",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "N",
+                    "weight": 57,
+                    "charCode": "0111",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "",
+            "weight": 191,
+            "charCode": "00",
+            "left": {
+                "value": "",
+                "weight": 92,
+                "charCode": "000",
+                "left": {
+                    "value": "",
+                    "weight": 45,
+                    "charCode": "0000",
+                    "left": {
+                        "value": "C",
+                        "weight": 22,
+                        "charCode": "00000",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "right": {
+                        "value": "U",
+                        "weight": 23,
+                        "charCode": "00001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 5
+                    },
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "H",
+                    "weight": 47,
+                    "charCode": "0001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "right": {
+                "value": "",
+                "weight": 99,
+                "charCode": "001",
+                "left": {
+                    "value": "R",
+                    "weight": 48,
+                    "charCode": "0010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "right": {
+                    "value": "S",
+                    "weight": 51,
+                    "charCode": "0011",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 4
+                },
+                "tag": 1,
+                "level": 3
+            },
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "",
+            "weight": 156,
+            "charCode": "110",
+            "left": {
+                "value": "",
+                "weight": 76,
+                "charCode": "1100",
+                "left": {
+                    "value": "",
+                    "weight": 35,
+                    "charCode": "11000",
+                    "left": {
+                        "value": "",
+                        "weight": 17,
+                        "charCode": "110000",
+                        "left": {
+                            "value": "V",
+                            "weight": 8,
+                            "charCode": "1100000",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 7
+                        },
+                        "right": {
+                            "value": "",
+                            "weight": 9,
+                            "charCode": "1100001",
+                            "left": {
+                                "value": "",
+                                "weight": 4,
+                                "charCode": "11000010",
+                                "left": {
+                                    "value": "",
+                                    "weight": 2,
+                                    "charCode": "110000100",
+                                    "left": {
+                                        "value": "J",
+                                        "weight": 1,
+                                        "charCode": "1100001000",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 10
+                                    },
+                                    "right": {
+                                        "value": "Q",
+                                        "weight": 1,
+                                        "charCode": "1100001001",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 10
+                                    },
+                                    "tag": 1,
+                                    "level": 9
+                                },
+                                "right": {
+                                    "value": "",
+                                    "weight": 2,
+                                    "charCode": "110000101",
+                                    "left": {
+                                        "value": "X",
+                                        "weight": 1,
+                                        "charCode": "1100001010",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 10
+                                    },
+                                    "right": {
+                                        "value": "Z",
+                                        "weight": 1,
+                                        "charCode": "1100001011",
+                                        "left": null,
+                                        "right": null,
+                                        "tag": 1,
+                                        "level": 10
+                                    },
+                                    "tag": 1,
+                                    "level": 9
+                                },
+                                "tag": 1,
+                                "level": 8
+                            },
+                            "right": {
+                                "value": "K",
+                                "weight": 5,
+                                "charCode": "11000011",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 8
+                            },
+                            "tag": 1,
+                            "level": 7
+                        },
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "right": {
+                        "value": "W",
+                        "weight": 18,
+                        "charCode": "110001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "tag": 1,
+                    "level": 5
+                },
+                "right": {
+                    "value": "",
+                    "weight": 41,
+                    "charCode": "11001",
+                    "left": {
+                        "value": "M",
+                        "weight": 20,
+                        "charCode": "110010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "right": {
+                        "value": "F",
+                        "weight": 21,
+                        "charCode": "110011",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "tag": 1,
+                    "level": 5
+                },
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "T",
+                "weight": 80,
+                "charCode": "1101",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 128,
+            "charCode": "101",
+            "left": {
+                "value": "A",
+                "weight": 64,
+                "charCode": "1010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "",
+                "weight": 64,
+                "charCode": "1011",
+                "left": {
+                    "value": "D",
+                    "weight": 32,
+                    "charCode": "10110",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 5
+                },
+                "right": {
+                    "value": "L",
+                    "weight": 32,
+                    "charCode": "10111",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 5
+                },
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 122,
+            "charCode": "100",
+            "left": {
+                "value": "",
+                "weight": 59,
+                "charCode": "1000",
+                "left": {
+                    "value": "",
+                    "weight": 28,
+                    "charCode": "10000",
+                    "left": {
+                        "value": "B",
+                        "weight": 13,
+                        "charCode": "100000",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "right": {
+                        "value": "G",
+                        "weight": 15,
+                        "charCode": "100001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "tag": 1,
+                    "level": 5
+                },
+                "right": {
+                    "value": "",
+                    "weight": 31,
+                    "charCode": "10001",
+                    "left": {
+                        "value": "P",
+                        "weight": 15,
+                        "charCode": "100010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "right": {
+                        "value": "Y",
+                        "weight": 16,
+                        "charCode": "100011",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 6
+                    },
+                    "tag": 1,
+                    "level": 5
+                },
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "O",
+                "weight": 63,
+                "charCode": "1001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 114,
+            "charCode": "011",
+            "left": {
+                "value": "I",
+                "weight": 57,
+                "charCode": "0110",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "N",
+                "weight": 57,
+                "charCode": "0111",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 99,
+            "charCode": "001",
+            "left": {
+                "value": "R",
+                "weight": 48,
+                "charCode": "0010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "S",
+                "weight": 51,
+                "charCode": "0011",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 92,
+            "charCode": "000",
+            "left": {
+                "value": "",
+                "weight": 45,
+                "charCode": "0000",
+                "left": {
+                    "value": "C",
+                    "weight": 22,
+                    "charCode": "00000",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 5
+                },
+                "right": {
+                    "value": "U",
+                    "weight": 23,
+                    "charCode": "00001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 5
+                },
+                "tag": 1,
+                "level": 4
+            },
+            "right": {
+                "value": "H",
+                "weight": 47,
+                "charCode": "0001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 4
+            },
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "",
+            "weight": 76,
+            "charCode": "1100",
+            "left": {
+                "value": "",
+                "weight": 35,
+                "charCode": "11000",
+                "left": {
+                    "value": "",
+                    "weight": 17,
+                    "charCode": "110000",
+                    "left": {
+                        "value": "V",
+                        "weight": 8,
+                        "charCode": "1100000",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 7
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 9,
+                        "charCode": "1100001",
+                        "left": {
+                            "value": "",
+                            "weight": 4,
+                            "charCode": "11000010",
+                            "left": {
+                                "value": "",
+                                "weight": 2,
+                                "charCode": "110000100",
+                                "left": {
+                                    "value": "J",
+                                    "weight": 1,
+                                    "charCode": "1100001000",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 10
+                                },
+                                "right": {
+                                    "value": "Q",
+                                    "weight": 1,
+                                    "charCode": "1100001001",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 10
+                                },
+                                "tag": 1,
+                                "level": 9
+                            },
+                            "right": {
+                                "value": "",
+                                "weight": 2,
+                                "charCode": "110000101",
+                                "left": {
+                                    "value": "X",
+                                    "weight": 1,
+                                    "charCode": "1100001010",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 10
+                                },
+                                "right": {
+                                    "value": "Z",
+                                    "weight": 1,
+                                    "charCode": "1100001011",
+                                    "left": null,
+                                    "right": null,
+                                    "tag": 1,
+                                    "level": 10
+                                },
+                                "tag": 1,
+                                "level": 9
+                            },
+                            "tag": 1,
+                            "level": 8
+                        },
+                        "right": {
+                            "value": "K",
+                            "weight": 5,
+                            "charCode": "11000011",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 8
+                        },
+                        "tag": 1,
+                        "level": 7
+                    },
+                    "tag": 1,
+                    "level": 6
+                },
+                "right": {
+                    "value": "W",
+                    "weight": 18,
+                    "charCode": "110001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "tag": 1,
+                "level": 5
+            },
+            "right": {
+                "value": "",
+                "weight": 41,
+                "charCode": "11001",
+                "left": {
+                    "value": "M",
+                    "weight": 20,
+                    "charCode": "110010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "right": {
+                    "value": "F",
+                    "weight": 21,
+                    "charCode": "110011",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "tag": 1,
+                "level": 5
+            },
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "",
+            "weight": 64,
+            "charCode": "1011",
+            "left": {
+                "value": "D",
+                "weight": 32,
+                "charCode": "10110",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 5
+            },
+            "right": {
+                "value": "L",
+                "weight": 32,
+                "charCode": "10111",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 5
+            },
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "",
+            "weight": 59,
+            "charCode": "1000",
+            "left": {
+                "value": "",
+                "weight": 28,
+                "charCode": "10000",
+                "left": {
+                    "value": "B",
+                    "weight": 13,
+                    "charCode": "100000",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "right": {
+                    "value": "G",
+                    "weight": 15,
+                    "charCode": "100001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "tag": 1,
+                "level": 5
+            },
+            "right": {
+                "value": "",
+                "weight": 31,
+                "charCode": "10001",
+                "left": {
+                    "value": "P",
+                    "weight": 15,
+                    "charCode": "100010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "right": {
+                    "value": "Y",
+                    "weight": 16,
+                    "charCode": "100011",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 6
+                },
+                "tag": 1,
+                "level": 5
+            },
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "",
+            "weight": 45,
+            "charCode": "0000",
+            "left": {
+                "value": "C",
+                "weight": 22,
+                "charCode": "00000",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 5
+            },
+            "right": {
+                "value": "U",
+                "weight": 23,
+                "charCode": "00001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 5
+            },
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "",
+            "weight": 41,
+            "charCode": "11001",
+            "left": {
+                "value": "M",
+                "weight": 20,
+                "charCode": "110010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "right": {
+                "value": "F",
+                "weight": 21,
+                "charCode": "110011",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "",
+            "weight": 35,
+            "charCode": "11000",
+            "left": {
+                "value": "",
+                "weight": 17,
+                "charCode": "110000",
+                "left": {
+                    "value": "V",
+                    "weight": 8,
+                    "charCode": "1100000",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 7
+                },
+                "right": {
+                    "value": "",
+                    "weight": 9,
+                    "charCode": "1100001",
+                    "left": {
+                        "value": "",
+                        "weight": 4,
+                        "charCode": "11000010",
+                        "left": {
+                            "value": "",
+                            "weight": 2,
+                            "charCode": "110000100",
+                            "left": {
+                                "value": "J",
+                                "weight": 1,
+                                "charCode": "1100001000",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 10
+                            },
+                            "right": {
+                                "value": "Q",
+                                "weight": 1,
+                                "charCode": "1100001001",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 10
+                            },
+                            "tag": 1,
+                            "level": 9
+                        },
+                        "right": {
+                            "value": "",
+                            "weight": 2,
+                            "charCode": "110000101",
+                            "left": {
+                                "value": "X",
+                                "weight": 1,
+                                "charCode": "1100001010",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 10
+                            },
+                            "right": {
+                                "value": "Z",
+                                "weight": 1,
+                                "charCode": "1100001011",
+                                "left": null,
+                                "right": null,
+                                "tag": 1,
+                                "level": 10
+                            },
+                            "tag": 1,
+                            "level": 9
+                        },
+                        "tag": 1,
+                        "level": 8
+                    },
+                    "right": {
+                        "value": "K",
+                        "weight": 5,
+                        "charCode": "11000011",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 8
+                    },
+                    "tag": 1,
+                    "level": 7
+                },
+                "tag": 1,
+                "level": 6
+            },
+            "right": {
+                "value": "W",
+                "weight": 18,
+                "charCode": "110001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "",
+            "weight": 31,
+            "charCode": "10001",
+            "left": {
+                "value": "P",
+                "weight": 15,
+                "charCode": "100010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "right": {
+                "value": "Y",
+                "weight": 16,
+                "charCode": "100011",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "",
+            "weight": 28,
+            "charCode": "10000",
+            "left": {
+                "value": "B",
+                "weight": 13,
+                "charCode": "100000",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "right": {
+                "value": "G",
+                "weight": 15,
+                "charCode": "100001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 6
+            },
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "",
+            "weight": 17,
+            "charCode": "110000",
+            "left": {
+                "value": "V",
+                "weight": 8,
+                "charCode": "1100000",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 7
+            },
+            "right": {
+                "value": "",
+                "weight": 9,
+                "charCode": "1100001",
+                "left": {
+                    "value": "",
+                    "weight": 4,
+                    "charCode": "11000010",
+                    "left": {
+                        "value": "",
+                        "weight": 2,
+                        "charCode": "110000100",
+                        "left": {
+                            "value": "J",
+                            "weight": 1,
+                            "charCode": "1100001000",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 10
+                        },
+                        "right": {
+                            "value": "Q",
+                            "weight": 1,
+                            "charCode": "1100001001",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 10
+                        },
+                        "tag": 1,
+                        "level": 9
+                    },
+                    "right": {
+                        "value": "",
+                        "weight": 2,
+                        "charCode": "110000101",
+                        "left": {
+                            "value": "X",
+                            "weight": 1,
+                            "charCode": "1100001010",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 10
+                        },
+                        "right": {
+                            "value": "Z",
+                            "weight": 1,
+                            "charCode": "1100001011",
+                            "left": null,
+                            "right": null,
+                            "tag": 1,
+                            "level": 10
+                        },
+                        "tag": 1,
+                        "level": 9
+                    },
+                    "tag": 1,
+                    "level": 8
+                },
+                "right": {
+                    "value": "K",
+                    "weight": 5,
+                    "charCode": "11000011",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 8
+                },
+                "tag": 1,
+                "level": 7
+            },
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "",
+            "weight": 9,
+            "charCode": "1100001",
+            "left": {
+                "value": "",
+                "weight": 4,
+                "charCode": "11000010",
+                "left": {
+                    "value": "",
+                    "weight": 2,
+                    "charCode": "110000100",
+                    "left": {
+                        "value": "J",
+                        "weight": 1,
+                        "charCode": "1100001000",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 10
+                    },
+                    "right": {
+                        "value": "Q",
+                        "weight": 1,
+                        "charCode": "1100001001",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 10
+                    },
+                    "tag": 1,
+                    "level": 9
+                },
+                "right": {
+                    "value": "",
+                    "weight": 2,
+                    "charCode": "110000101",
+                    "left": {
+                        "value": "X",
+                        "weight": 1,
+                        "charCode": "1100001010",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 10
+                    },
+                    "right": {
+                        "value": "Z",
+                        "weight": 1,
+                        "charCode": "1100001011",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 10
+                    },
+                    "tag": 1,
+                    "level": 9
+                },
+                "tag": 1,
+                "level": 8
+            },
+            "right": {
+                "value": "K",
+                "weight": 5,
+                "charCode": "11000011",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 8
+            },
+            "tag": 1,
+            "level": 7
+        },
+        {
+            "value": "",
+            "weight": 4,
+            "charCode": "11000010",
+            "left": {
+                "value": "",
+                "weight": 2,
+                "charCode": "110000100",
+                "left": {
+                    "value": "J",
+                    "weight": 1,
+                    "charCode": "1100001000",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 10
+                },
+                "right": {
+                    "value": "Q",
+                    "weight": 1,
+                    "charCode": "1100001001",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 10
+                },
+                "tag": 1,
+                "level": 9
+            },
+            "right": {
+                "value": "",
+                "weight": 2,
+                "charCode": "110000101",
+                "left": {
+                    "value": "X",
+                    "weight": 1,
+                    "charCode": "1100001010",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 10
+                },
+                "right": {
+                    "value": "Z",
+                    "weight": 1,
+                    "charCode": "1100001011",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 10
+                },
+                "tag": 1,
+                "level": 9
+            },
+            "tag": 1,
+            "level": 8
+        },
+        {
+            "value": "",
+            "weight": 2,
+            "charCode": "110000101",
+            "left": {
+                "value": "X",
+                "weight": 1,
+                "charCode": "1100001010",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 10
+            },
+            "right": {
+                "value": "Z",
+                "weight": 1,
+                "charCode": "1100001011",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 10
+            },
+            "tag": 1,
+            "level": 9
+        },
+        {
+            "value": "",
+            "weight": 2,
+            "charCode": "110000100",
+            "left": {
+                "value": "J",
+                "weight": 1,
+                "charCode": "1100001000",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 10
+            },
+            "right": {
+                "value": "Q",
+                "weight": 1,
+                "charCode": "1100001001",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 10
+            },
+            "tag": 1,
+            "level": 9
+        },
+        {
+            "value": " ",
+            "weight": 186,
+            "charCode": "111",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "Z",
+            "weight": 1,
+            "charCode": "1100001011",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 10
+        },
+        {
+            "value": "Y",
+            "weight": 16,
+            "charCode": "100011",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "X",
+            "weight": 1,
+            "charCode": "1100001010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 10
+        },
+        {
+            "value": "W",
+            "weight": 18,
+            "charCode": "110001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "V",
+            "weight": 8,
+            "charCode": "1100000",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 7
+        },
+        {
+            "value": "U",
+            "weight": 23,
+            "charCode": "00001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "T",
+            "weight": 80,
+            "charCode": "1101",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "S",
+            "weight": 51,
+            "charCode": "0011",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "R",
+            "weight": 48,
+            "charCode": "0010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "Q",
+            "weight": 1,
+            "charCode": "1100001001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 10
+        },
+        {
+            "value": "P",
+            "weight": 15,
+            "charCode": "100010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "O",
+            "weight": 63,
+            "charCode": "1001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "N",
+            "weight": 57,
+            "charCode": "0111",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "M",
+            "weight": 20,
+            "charCode": "110010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "L",
+            "weight": 32,
+            "charCode": "10111",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "K",
+            "weight": 5,
+            "charCode": "11000011",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 8
+        },
+        {
+            "value": "J",
+            "weight": 1,
+            "charCode": "1100001000",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 10
+        },
+        {
+            "value": "I",
+            "weight": 57,
+            "charCode": "0110",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "H",
+            "weight": 47,
+            "charCode": "0001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        },
+        {
+            "value": "G",
+            "weight": 15,
+            "charCode": "100001",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "F",
+            "weight": 21,
+            "charCode": "110011",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "E",
+            "weight": 103,
+            "charCode": "010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "D",
+            "weight": 32,
+            "charCode": "10110",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "C",
+            "weight": 22,
+            "charCode": "00000",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 5
+        },
+        {
+            "value": "B",
+            "weight": 13,
+            "charCode": "100000",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 6
+        },
+        {
+            "value": "A",
+            "weight": 64,
+            "charCode": "1010",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 4
+        }
+    ]
+}

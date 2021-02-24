@@ -1,0 +1,163 @@
+{
+    "hfmTreeArr": [
+        {
+            "value": "",
+            "weight": 16,
+            "charCode": "",
+            "left": {
+                "value": "O",
+                "weight": 7,
+                "charCode": "0",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 1
+            },
+            "right": {
+                "value": "",
+                "weight": 9,
+                "charCode": "1",
+                "left": {
+                    "value": "",
+                    "weight": 4,
+                    "charCode": "10",
+                    "left": {
+                        "value": "V",
+                        "weight": 1,
+                        "charCode": "100",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "right": {
+                        "value": "L",
+                        "weight": 3,
+                        "charCode": "101",
+                        "left": null,
+                        "right": null,
+                        "tag": 1,
+                        "level": 3
+                    },
+                    "tag": 1,
+                    "level": 2
+                },
+                "right": {
+                    "value": "E",
+                    "weight": 5,
+                    "charCode": "11",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 2
+                },
+                "tag": 1,
+                "level": 1
+            },
+            "tag": 0,
+            "level": 0
+        },
+        {
+            "value": "",
+            "weight": 9,
+            "charCode": "1",
+            "left": {
+                "value": "",
+                "weight": 4,
+                "charCode": "10",
+                "left": {
+                    "value": "V",
+                    "weight": 1,
+                    "charCode": "100",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 3
+                },
+                "right": {
+                    "value": "L",
+                    "weight": 3,
+                    "charCode": "101",
+                    "left": null,
+                    "right": null,
+                    "tag": 1,
+                    "level": 3
+                },
+                "tag": 1,
+                "level": 2
+            },
+            "right": {
+                "value": "E",
+                "weight": 5,
+                "charCode": "11",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 2
+            },
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "",
+            "weight": 4,
+            "charCode": "10",
+            "left": {
+                "value": "V",
+                "weight": 1,
+                "charCode": "100",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 3
+            },
+            "right": {
+                "value": "L",
+                "weight": 3,
+                "charCode": "101",
+                "left": null,
+                "right": null,
+                "tag": 1,
+                "level": 3
+            },
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "E",
+            "weight": 5,
+            "charCode": "11",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 2
+        },
+        {
+            "value": "V",
+            "weight": 1,
+            "charCode": "100",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 3
+        },
+        {
+            "value": "O",
+            "weight": 7,
+            "charCode": "0",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 1
+        },
+        {
+            "value": "L",
+            "weight": 3,
+            "charCode": "101",
+            "left": null,
+            "right": null,
+            "tag": 1,
+            "level": 3
+        }
+    ]
+}
